@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArulArora
-- 👀 I’m interested in anything to do with technology
-- 🌱 I’m currently learning full stack development
+- 👀 I’m interested in everything to do with technology
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me: a93arora@uwaterloo.ca
